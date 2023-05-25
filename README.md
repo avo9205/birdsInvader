@@ -1,4 +1,4 @@
-# birdsInvation
+# birdsInvader
 Video Juego tipo Space Invader
 
 como se observa el videojuego contiene las siguientes caracteristicas: 
